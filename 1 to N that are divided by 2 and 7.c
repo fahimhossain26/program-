@@ -1,3 +1,4 @@
+//**Take an integer N as input and write a for loop that prints all values from 1 to N that are divided by 2 and 7.**//
 
 #include <stdio.h>
 
